@@ -6,7 +6,7 @@ public class Praktikum02 {
         
         Scanner input = new Scanner(System.in);
         String sentence1, sentence2, sentence3;
-      
+        
         // Input
         System.out.println("Masukkan kalimat pertama: ");
         sentence1 = input.nextLine();
