@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class LatihanPraktikumI { 
+public class Praktikum02 { 
         
     public static void main(String[] args) { 
 
