@@ -1,4 +1,4 @@
-# PraktikumPemDas
+# Praktikum Basic Programming
 
 Hello, I'm Shafina and this repository is used to archive all my code during class,
 especially for Basic Programming class. I hope this repository will be useful for you!
